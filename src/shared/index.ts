@@ -33,6 +33,18 @@ export {
 export { Avatar, AvatarImage, AvatarFallback } from "./ui/avatar";
 export { HoverCard, HoverCardTrigger, HoverCardContent } from "./ui/hover-card";
 export { ScrollArea, ScrollBar } from "./ui/scroll-area";
+export {
+  Select,
+  SelectGroup,
+  SelectValue,
+  SelectTrigger,
+  SelectContent,
+  SelectLabel,
+  SelectItem,
+  SelectSeparator,
+  SelectScrollUpButton,
+  SelectScrollDownButton,
+} from "./ui/select";
 
 // API
 export { queryClient } from "./api/queryClient";
