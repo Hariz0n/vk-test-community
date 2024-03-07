@@ -21,3 +21,6 @@ export {
   DropdownMenuSubTrigger,
   DropdownMenuRadioGroup,
 } from "./ui/dropdown-menu";
+
+// API
+export { queryClient } from "./api/queryClient";
